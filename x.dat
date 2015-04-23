@@ -1,0 +1,3 @@
+cd htdocs
+mput *.html
+quit

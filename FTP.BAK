@@ -1,0 +1,6 @@
+open 034dee2.netsolhost.com
+user ftp1809094
+sdfSDF00
+cd htdocs
+put index.html
+quit

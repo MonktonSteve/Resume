@@ -1,0 +1,6 @@
+-rw-------    1 25544    100           182 Sep 03 16:20 .bash_history
+-rw----r--    1 25544    100            24 May 01  2007 .bash_logout
+-rw----r--    1 25544    100           191 May 01  2007 .bash_profile
+-rw----r--    1 25544    100           124 May 01  2007 .bashrc
+-rw----r--    1 25544    100           383 May 01  2007 .emacs
+drwx--xr-x    2 25544    100          4096 Sep 03 16:19 public_html

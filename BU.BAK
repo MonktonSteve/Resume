@@ -1,0 +1,5 @@
+del homepage.zip
+pkzip homepage.zip
+copy homepage.zip a:
+copy homepage.zip c:\save
+copy homepage.zip d:\save

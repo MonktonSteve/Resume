@@ -1,0 +1,8 @@
+      <!--[if !IE]> Firefox and others will use outer object -->
+      <object classid="java:Sample2.class" 
+              type="application/x-java-applet"
+              archive="Sample2.jar" 
+              height="300" width="450" >
+        <!-- Konqueror browser needs the following param -->
+        <param name="archive" value="Sample2.jar" />
+      <!--<![endif]-->
