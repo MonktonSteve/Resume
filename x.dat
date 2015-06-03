@@ -1,3 +1,4 @@
 cd htdocs
 mput *.html
+mput *.apk
 quit
